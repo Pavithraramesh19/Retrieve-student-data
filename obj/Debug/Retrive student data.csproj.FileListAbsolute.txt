@@ -1,0 +1,7 @@
+C:\Users\epicg\source\repos\Retrive student data\Retrive student data\bin\Debug\Retrive student data.exe.config
+C:\Users\epicg\source\repos\Retrive student data\Retrive student data\bin\Debug\Retrive student data.exe
+C:\Users\epicg\source\repos\Retrive student data\Retrive student data\bin\Debug\Retrive student data.pdb
+C:\Users\epicg\source\repos\Retrive student data\Retrive student data\obj\Debug\Retrive student data.csproj.AssemblyReference.cache
+C:\Users\epicg\source\repos\Retrive student data\Retrive student data\obj\Debug\Retrive student data.csproj.CoreCompileInputs.cache
+C:\Users\epicg\source\repos\Retrive student data\Retrive student data\obj\Debug\Retrive student data.exe
+C:\Users\epicg\source\repos\Retrive student data\Retrive student data\obj\Debug\Retrive student data.pdb
